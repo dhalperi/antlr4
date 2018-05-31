@@ -12,6 +12,7 @@
 		<version>4.7.1</version>
 	</parent>
 	<artifactId>antlr4</artifactId>
+	<version>4.7.1-batfish-internal</version>
 	<name>ANTLR 4 Tool</name>
 	<url>http://www.antlr.org</url>
 	<description>The ANTLR 4 grammar compiler.</description>
@@ -19,7 +20,7 @@
 		<dependency>
 			<groupId>org.antlr</groupId>
 			<artifactId>antlr4-runtime</artifactId>
-			<version>${project.version}</version>
+			<version>4.7.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.antlr</groupId>
